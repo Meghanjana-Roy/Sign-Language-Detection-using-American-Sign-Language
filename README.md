@@ -1,8 +1,8 @@
 # Sign-Language-Detection-using-American-Sign-Language
 Sign Language Detection using Machine Learning with InceptionV3 enables real-time ASL recognition via a webcam. It preprocesses hand gestures, predicts letters with a trained model, and forms words/sentences dynamically. Optimized for performance, it ensures efficient, accurate gesture recognition in Python. Steps to follow :-
 
-1.Capture real-time video frames using OpenCV.
-2.Extract the Region of Interest (ROI) for hand gestures.
+1.Capture real-time video frames using OpenCV./n
+2.Extract the Region of Interest (ROI) for hand gestures./n
 3.Preprocess ROI (resize, normalize).
 4.Predict the ASL letter using the InceptionV3 model.
 5.Store predictions, build words/sentences dynamically.
